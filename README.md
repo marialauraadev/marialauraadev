@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou a Maria Laura 👋</h1>
 <h3 align="center">Desenvolvedora de Automação & Dados | Python • SQL • React • C#</h3>
-<p align="center"><i>Perfil orientado à solução de problemas e otimização de processos 🚀</i></p>
+<p align="center"><i>Perfil orientado à solução de problemas e otimização de processos</i></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Automatizando+processos+com+Python;Transformando+dados+em+decis%C3%B5es;Estudante+de+ADS+%40+PUC+Minas;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
