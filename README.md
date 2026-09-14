@@ -1,5 +1,6 @@
-<h1 align="center">Oi, eu sou a Maria Laura 👋</h1>
+<h1 align="center">Olá! Eu sou a Maria Laura 👋</h1>
 <h3 align="center">Desenvolvedora de Automação & Dados | Python • SQL • React • C#</h3>
+<p align="center"><i>Perfil orientado à solução de problemas e otimização de processos 🚀</i></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Automatizando+processos+com+Python;Transformando+dados+em+decis%C3%B5es;Estudante+de+ADS+%40+PUC+Minas;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
@@ -50,18 +51,6 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
----
-
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marialauraadev&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialauraadev&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marialauraadev&hide_border=true" alt="streak stats" />
-</p>
 
 ---
 
@@ -71,5 +60,3 @@
   <a href="https://www.linkedin.com/in/maria-laura-carvalho2510/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-<p align="center"><i>Perfil orientado à solução de problemas e otimização de processos 🚀</i></p>
