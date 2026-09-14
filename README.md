@@ -1,5 +1,5 @@
 <h1 align="center">Oi, eu sou a Maria Laura 👋</h1>
-<h3 align="center">Desenvolvedora de Automação & Dados | Python • SQL • Excel • Streamlit</h3>
+<h3 align="center">Desenvolvedora de Automação & Dados | Python • SQL • React • C#</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Automatizando+processos+com+Python;Transformando+dados+em+decis%C3%B5es;Estudante+de+ADS+%40+PUC+Minas;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
@@ -9,11 +9,11 @@
 
 ### 🚀 Sobre mim
 
-- Atualmente na **MRV Engenharia e Participações S.A.**, atuando como **Estagiária em Estudos de Orçamentos** (Diretoria de Produção Corporativa)
-- Passagem pelo **Centro de Estratégia e Inteligência** como Estagiária em Ciência de Dados, com foco em automação, ETL e regras de negócio
-- Cursando **Análise e Desenvolvimento de Sistemas** na Pontifícia Universidade Católica de Minas Gerais (conclusão em jun/2027)
-- Gosto de transformar tarefas manuais e repetitivas em soluções automatizadas
-- Sempre explorando novas ferramentas de dados e desenvolvimento web
+- Atualmente na **MRV Engenharia e Participações S.A.**, atuando como **Estagiária em Estudos de Orçamentos** (Diretoria de Produção Corporativa);
+- Passagem pelo **Centro de Estratégia e Inteligência** como Estagiária em Ciência de Dados, com foco em automação, ETL e regras de negócio;
+- Cursando **Análise e Desenvolvimento de Sistemas** na Pontifícia Universidade Católica de Minas Gerais (conclusão em jun/2027);
+- Gosto de transformar tarefas manuais e repetitivas em soluções automatizadas;
+- Sempre explorando novas ferramentas de dados e desenvolvimento web.
 
 ---
 
